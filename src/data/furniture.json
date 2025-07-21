@@ -1,0 +1,754 @@
+[
+  {
+    "id": "1",
+    "title": "Mid-Century Walnut Sideboard",
+    "company": "OakLine",
+    "category": "cabinet",
+    "price": 46999,
+    "image": "https://images.unsplash.com/photo-1506744038136-46273834b3fb",
+    "colors": ["#FF5733", "#8B4513"],
+    "description": "Vintage mid-century design sideboard crafted from solid walnut wood, featuring spacious cabinets and smooth sliding drawers. Perfect for organizing tableware or electronics, it brings warmth and character to your living or dining area, ensuring timeless elegance."
+  },
+  {
+    "id": "2",
+    "title": "Nordic Lounge Chair",
+    "company": "ScandicHome",
+    "category": "chair",
+    "price": 15999,
+    "image": "https://images.unsplash.com/photo-1519710164239-da123dc03ef4",
+    "colors": ["#FFFFFF", "#BD8E6B"],
+    "description": "Minimalist and stylish, this lounge chair features smooth curves, supportive cushioning, and wooden legs for a comfortable seating experience. Its soft upholstery and iconic Scandinavian design fit effortlessly into both modern and traditional interiors."
+  },
+  {
+    "id": "3",
+    "title": "Farmhouse Oak Dining Table",
+    "company": "RiverWood",
+    "category": "table",
+    "price": 29999,
+    "image": "https://images.unsplash.com/photo-1515378791036-0648a3ef77b2",
+    "colors": ["#7C482B", "#FAF4E6"],
+    "description": "This robust farmhouse dining table is constructed from reclaimed oak, finished to highlight natural grains and knots. Its large surface and sturdy build make it ideal for family gatherings, adding rustic charm to any dining room."
+  },
+  {
+    "id": "4",
+    "title": "Contemporary Velvet Sofa",
+    "company": "UrbanNest",
+    "category": "sofa",
+    "price": 57999,
+    "image": "/images/Contemporary Velvet Sofa.webp",
+    "colors": ["#22223B", "#F2E9E4"],
+    "description": "Indulge in luxury with this plush velvet sofa. A deep seat and supportive cushions create a welcoming spot for relaxation, while the modern silhouette and bold color choices make it an eye-catching centerpiece in any living room."
+  },
+  {
+    "id": "5",
+    "title": "Industrial Wood Bookshelf",
+    "company": "Metallo",
+    "category": "cabinet",
+    "price": 17999,
+    "image": "https://images.unsplash.com/photo-1460518451285-97b6aa326961",
+    "colors": ["#303036", "#D9BF77"],
+    "description": "This five-tier open bookshelf blends rustic wood with black metal framing. Perfect for books, plants, or decorative items, its airy design works well in modern, loft, or industrial-style interiors."
+  },
+  {
+    "id": "6",
+    "title": "Minimalist Queen Bed Frame",
+    "company": "SlumberEase",
+    "category": "bed",
+    "price": 34999,
+    "image": "https://images.unsplash.com/photo-1512820790803-83ca734da794",
+    "colors": ["#F7ECE1", "#8B5E3C"],
+    "description": "A timeless queen bed with a sturdy hardwood frame and subtle minimalist headboard. The neutral color palette and clean lines create a restful and inviting retreat for any bedroom setting."
+  },
+  {
+    "id": "7",
+    "title": "Classic Wooden Rocking Chair",
+    "company": "TimberCraft",
+    "category": "chair",
+    "price": 8999,
+    "image": "https://images.unsplash.com/photo-1454023492550-5696f8ff10e1",
+    "colors": ["#8B5D33", "#CDAA7D"],
+    "description": "Handcrafted from premium hardwood, this traditional rocking chair features a supportive slatted back and comfortable seat. Perfect for nurseries, porches, or living spaces to relax and unwind."
+  },
+  {
+    "id": "8",
+    "title": "Modern Glass Coffee Table",
+    "company": "VividLiving",
+    "category": "table",
+    "price": 14499,
+    "image": "https://images.unsplash.com/photo-1512436991641-6745cdb1723f",
+    "colors": ["#FFFFFF", "#23282D"],
+    "description": "This chic coffee table combines a durable tempered glass top with sleek metal legs. Its minimalist form is perfect for contemporary living rooms, adding elegance without sacrificing practicality."
+  },
+  {
+    "id": "9",
+    "title": "Soft Fabric Recliner",
+    "company": "ComfyNest",
+    "category": "sofa",
+    "price": 23999,
+    "image": "https://images.unsplash.com/photo-1465101178521-c1a017dc1dc8",
+    "colors": ["#757575", "#FFFFFF"],
+    "description": "Sink into comfort with this ergonomic recliner, upholstered in soft, breathable fabric. Featuring an easy-recline mechanism and ample padding, it's ideal for reading, naps, or watching your favorite shows."
+  },
+  {
+    "id": "10",
+    "title": "Artisan Storage Ottoman",
+    "company": "CraftHouse",
+    "category": "ottoman",
+    "price": 10999,
+    "image": "https://images.unsplash.com/photo-1482062364825-616fd23b8fc1",
+    "colors": ["#D9B382", "#392613"],
+    "description": "Both decorative and functional, this artisan ottoman offers hidden storage beneath its plush, tufted top. Its versatile design complements any room, providing a place to rest your feet or store blankets and magazines."
+  },
+  {
+    "id": "11",
+    "title": "Scandi Light Wood Nightstand",
+    "company": "NordicEase",
+    "category": "cabinet",
+    "price": 7999,
+    "image": "https://images.unsplash.com/photo-1470259078422-826894b933aa",
+    "colors": ["#EAD7C2", "#B3A580"],
+    "description": "A minimalist nightstand crafted from light birch wood, featuring a spacious drawer and open shelf. Designed for Scandi-inspired bedrooms, it offers both practicality and simple charm."
+  },
+  {
+    "id": "12",
+    "title": "Retro Blue Armchair",
+    "company": "ChicSeating",
+    "category": "chair",
+    "price": 12499,
+    "image": "https://images.unsplash.com/photo-1468436139062-f60a71c5c892",
+    "colors": ["#4A90E2", "#F1E9DB"],
+    "description": "Bold and comfortable, this retro armchair features plush blue upholstery and slender dark wood legs. Its artful design brings a pop of color and vintage style to modern lounges."
+  },
+  {
+    "id": "13",
+    "title": "Industrial Metal Bar Stool",
+    "company": "IronWorks",
+    "category": "chair",
+    "price": 4999,
+    "image": "/images/Industrial Metal Bar Stool.jpeg",
+    "colors": ["#2C2C2C", "#F4B400"],
+    "description": "Built to last, this bar stool blends heavy-duty steel with a smooth wood seat. Its adjustable height ensures comfort, making it a perfect addition to modern kitchens or home bars."
+  },
+  {
+    "id": "14",
+    "title": "Glass Display Cabinet",
+    "company": "Showcase",
+    "category": "cabinet",
+    "price": 27999,
+    "image": "https://images.unsplash.com/photo-1503389152951-9c3d0298e980",
+    "colors": ["#EAEAEA", "#B4B8AB"],
+    "description": "Beautifully constructed, this tall glass display cabinet features adjustable shelves and interior lighting to showcase collectibles, books, or dinnerware with sophistication."
+  },
+  {
+    "id": "15",
+    "title": "Compact Writing Desk",
+    "company": "FlexiWork",
+    "category": "table",
+    "price": 8499,
+    "image": "https://images.unsplash.com/photo-1519121786615-c5e3b5606112",
+    "colors": ["#F2F0EB", "#8B8680"],
+    "description": "Ideal for smaller spaces, this sleek writing desk offers a spacious work surface, minimalist silhouette, and convenient storage drawer. The light finish and sturdy build bring function and style to home offices."
+  },
+  {
+    "id": "16",
+    "title": "Elegant Tufted Bed",
+    "company": "DreamPlush",
+    "category": "bed",
+    "price": 38999,
+    "image": "https://images.unsplash.com/photo-1516670428252-041e22c90b09",
+    "colors": ["#F5F1EA", "#C0B7A3"],
+    "description": "Sleep in style with this queen bed frame, featuring a tall, tufted headboard and soft fabric upholstery. Its sturdy frame and timeless elegance transform your bedroom into a luxury retreat."
+  },
+  {
+    "id": "17",
+    "title": "Convertible Modern Sectional",
+    "company": "UrbanNest",
+    "category": "sofa",
+    "price": 67999,
+    "image": "https://images.unsplash.com/photo-1519223400710-ef7c13e61d9a",
+    "colors": ["#4B514E", "#E7E5DF"],
+    "description": "Maximize seating with this spacious L-shaped sectional. Low slung and plush, it easily converts to a guest bed for overnight visitors and is available in multiple colorways."
+  },
+  {
+    "id": "18",
+    "title": "Bohemian Rattan Accent Chair",
+    "company": "NatureHouse",
+    "category": "chair",
+    "price": 16999,
+    "image": "https://images.unsplash.com/photo-1524758631624-e2822e304c36",
+    "colors": ["#D5B887", "#967259"],
+    "description": "Handwoven with intricate patterns, this boho rattan chair comes with a cozy seat cushion. A perfect corner piece for sunrooms, reading nooks, or anywhere you want a breezy look."
+  },
+  {
+    "id": "19",
+    "title": "Vintage Leather Chesterfield",
+    "company": "HeritageLeather",
+    "category": "sofa",
+    "price": 88999,
+    "image": "/images/Vintage Leather Chesterfield.jpg",
+    "colors": ["#A0522D", "#EAE2CF"],
+    "description": "This classic Chesterfield sofa features deep button tufting, rolled arms, and top-grain vintage leather upholstery. The rich patina and sturdy hardwood legs add old-world charm and sophistication."
+  },
+  {
+    "id": "20",
+    "title": "Sleek Marble Console Table",
+    "company": "StoneCraft",
+    "category": "table",
+    "price": 26999,
+    "image": "https://images.unsplash.com/photo-1520880867055-1e30d1cb001c",
+    "colors": ["#FFFFFF", "#ACADB0"],
+    "description": "An elegant marble tabletop rests on minimalist black metal legs. Ideal for entryways or living rooms, this console table balances luxury with understated modern style."
+  },
+  {
+    "id": "21",
+    "title": "Floating Wall Shelves Set",
+    "company": "Shelfit",
+    "category": "cabinet",
+    "price": 4999,
+    "image": "/images/Floating Black Wall Shelf.jpg",
+    "colors": ["#E4E2DD", "#A99C87"],
+    "description": "This trio of floating shelves is crafted from smooth wood and comes in a neutral finish. Perfect for displaying art, books, or plants, adding functional style to any wall."
+  },
+  {
+    "id": "22",
+    "title": "Contemporary Round Dining Set",
+    "company": "TableMakers",
+    "category": "table",
+    "price": 41999,
+    "image": "https://images.unsplash.com/photo-1470093851215-16b5b31c965f",
+    "colors": ["#DED4C1", "#392A25"],
+    "description": "A modern round table with a sturdy central pedestal and polished veneer, accompanied by four matching chairs, perfect for breakfast nooks or compact dining spaces."
+  },
+  {
+    "id": "23",
+    "title": "Tufted Storage Bench",
+    "company": "EntrywayEssentials",
+    "category": "ottoman",
+    "price": 13999,
+    "image": "https://images.unsplash.com/photo-1432888498266-38ffec3eaf0a",
+    "colors": ["#B0916E", "#DDC7A0"],
+    "description": "Add extra seating and space with this versatile bench, featuring a tufted cushion and deep inside compartment. Ideal for entryways, bedrooms, or at the foot of your bed."
+  },
+  {
+    "id": "24",
+    "title": "Kid's Pine Bunk Bed",
+    "company": "TinyDreams",
+    "category": "bed",
+    "price": 27499,
+    "image": "https://images.unsplash.com/photo-1501594907352-04cda38ebc29",
+    "colors": ["#C2AD8C", "#FFFFFF"],
+    "description": "Built for fun and function, this solid pine bunk bed features guardrails, a ladder, and under-bed storage drawers, making it perfect for shared children's rooms."
+  },
+  {
+    "id": "25",
+    "title": "Foldable Dining Table",
+    "company": "FlexiTable",
+    "category": "table",
+    "price": 13499,
+    "image": "https://images.unsplash.com/photo-1464037866556-6812c9d1c72e",
+    "colors": ["#ECECEC", "#626262"],
+    "description": "A space-saving foldable dining table designed for small apartments and flexible spaces. It opens out to seat four and folds down for easy storage, with a stylish, modern look."
+  },
+  {
+    "id": "26",
+    "title": "Reclaimed Wood Dining Table",
+    "company": "GreenCraft",
+    "category": "table",
+    "price": 29900,
+    "image": "https://images.unsplash.com/photo-1465101162946-4377e57745c3",
+    "colors": ["#836953", "#f6ede0"],
+    "description": "Handcrafted from sustainably sourced reclaimed timber. Spacious tabletop with a rustic finish that showcases natural grain. Solid, sturdy legs deliver impressive stability. Perfect for large family gatherings and eco-conscious homes."
+  },
+  {
+    "id": "27",
+    "title": "Classic Two-Drawer Nightstand",
+    "company": "UrbanRoots",
+    "category": "nightstand",
+    "price": 8099,
+    "image": "https://images.unsplash.com/photo-1519710164239-da123dc03ef4",
+    "colors": ["#e2decf", "#6a5d43"],
+    "description": "Timeless silhouette with dual drawers for bedside essentials. Crafted from smooth hardwood and delicately lacquered for durability. Nickel handles add a refined touch. Designed to complement both modern and classic bedrooms."
+  },
+  {
+    "id": "28",
+    "title": "Soft Tweed Lounge Chair",
+    "company": "Cocoon Living",
+    "category": "chair",
+    "price": 14499,
+    "image": "https://images.unsplash.com/photo-1470290378698-263fa7ca0aea",
+    "colors": ["#b8a386", "#737373"],
+    "description": "Plush tweed upholstery and ergonomic contours for supreme comfort. Splayed wooden legs ensure stability and mid-century charm. Compact footprint suits living rooms, offices, or reading nooks. Easy-care fabric is family-friendly."
+  },
+  {
+    "id": "29",
+    "title": "Modern Glass-Top Console",
+    "company": "ClearLine",
+    "category": "table",
+    "price": 11499,
+    "image": "https://images.unsplash.com/photo-1503389152951-9c3d025f7c61",
+    "colors": ["#f9f9f9", "#a3a3a3"],
+    "description": "A sleek profile with a tempered glass surface. Polished steel frame brings shine to your entryway or hallway. Easy-clean top is ideal for keys, decor, or books. Lightweight and simple to move as needed."
+  },
+  {
+    "id": "30",
+    "title": "Dual-Tone Storage Ottoman",
+    "company": "CozyCube",
+    "category": "ottoman",
+    "price": 8590,
+    "image": "https://images.unsplash.com/photo-1519125323398-675f0ddb6308",
+    "colors": ["#645e4e", "#dfd5c7"],
+    "description": "Generously cushioned ottoman with hidden interior storage. The dual-tone design complements sofas or chairs. Sturdy build makes it perfect for footrest or impromptu seating. Hinged lid opens smoothly for easy access."
+  },
+  {
+    "id": "31",
+    "title": "Kids Maple Study Desk",
+    "company": "TinyDreams",
+    "category": "desk",
+    "price": 10500,
+    "image": "https://images.unsplash.com/photo-1462536943532-57a629f6cc60",
+    "colors": ["#ede2cf", "#b9915e"],
+    "description": "Child-sized desk made from smooth maple, finished for durability. Simple lines, rounded corners, and an included drawer for supplies. Perfect for homework, drawing, or creative time. Lightweight and safe for all ages."
+  },
+  {
+    "id": "32",
+    "title": "Moss Green Velvet Sofa",
+    "company": "CloudCasa",
+    "category": "sofa",
+    "price": 38990,
+    "image": "https://images.unsplash.com/photo-1493666438817-866a91353ca9",
+    "colors": ["#496057", "#212c27"],
+    "description": "Rich moss-green velvet brings luxury and elegance to any living area. Ultra-deep seat cushions provide cloud-like comfort. Sturdy wooden frame guarantees years of relaxation. Perfect for naps, guests, and everyday lounging."
+  },
+  {
+    "id": "33",
+    "title": "Rustic Wood & Iron Bookshelf",
+    "company": "LoftWorx",
+    "category": "bookshelf",
+    "price": 17999,
+    "image": "https://images.unsplash.com/photo-1449247613801-ab06418e2861",
+    "colors": ["#847060", "#393939"],
+    "description": "Industrial design with hand-finished wood shelves and an iron frame. Five spacious tiers for books, decor, and plants. Tough materials suit busy homes or offices. Guarantees timeless storage with an edgy twist."
+  },
+  {
+    "id": "34",
+    "title": "Boho Rattan Bed Frame",
+    "company": "Sun & Sage",
+    "category": "bed",
+    "price": 23100,
+    "image": "https://images.unsplash.com/photo-1465101046530-73398c7f28ca",
+    "colors": ["#d3ae7a", "#efeadf"],
+    "description": "Hand-woven rattan headboard and rails for artisanal charm. Lightweight yet sturdy frame gives a natural, airy feel. Easily matches boho, rustic, or coastal themes. Setup is tool-free and hassle-free."
+  },
+  {
+    "id": "35",
+    "title": "Elegant Marble-Top Side Table",
+    "company": "Marbelle",
+    "category": "table",
+    "price": 14600,
+    "image": "https://images.unsplash.com/photo-1465101178521-c1a5bc3f894e",
+    "colors": ["#c7c7c7", "#7d674a"],
+    "description": "Round marble tabletop with gold-accented base adds a touch of glamour. Compact and versatile for any nook or bedside. Easy to clean and resistant to spills. The perfect accent for modern interiors."
+  },
+  {
+    "id": "36",
+    "title": "Adjustable Standing Desk",
+    "company": "Workwise",
+    "category": "desk",
+    "price": 21250,
+    "image": "https://images.unsplash.com/photo-1524758631624-e2822e304c36",
+    "colors": ["#ececec", "#b7b7b7"],
+    "description": "Motorized lift allows seamless transition from sitting to standing. Spacious desktop keeps dual monitors and accessories organized. Integrated cable management minimizes clutter. Improves workspace ergonomics and focus."
+  },
+  {
+    "id": "37",
+    "title": "Patterned Blue Rug",
+    "company": "Textura",
+    "category": "rug",
+    "price": 6200,
+    "image": "https://images.unsplash.com/photo-1506744038136-46273834b3fb",
+    "colors": ["#456484", "#dbdbe0"],
+    "description": "Soft, low-pile rug with intricate global motifs in shades of blue and cream. Durable and easy to clean, perfect for high-traffic zones. Adds warmth and color to contemporary spaces. Works under dining tables or beds."
+  },
+  {
+    "id": "38",
+    "title": "Tall White Wardrobe",
+    "company": "DoorSpace",
+    "category": "wardrobe",
+    "price": 32800,
+    "image": "https://images.unsplash.com/photo-1515378791036-0648a3ef77b2",
+    "colors": ["#ebebeb", "#484848"],
+    "description": "Spacious 2-door wardrobe with hanging rod and deep shelves. Smooth white laminate finish brightens up any bedroom. Chic brushed handles add a modern touch. Ample storage for clothes, accessories, and linens."
+  },
+  {
+    "id": "39",
+    "title": "Slatted Wood Shoe Rack",
+    "company": "EntryTidy",
+    "category": "misc",
+    "price": 3799,
+    "image": "/images/Slatted Wood Shoe Rack.jpg",
+    "colors": ["#d9b99b", "#7b7b76"],
+    "description": "Natural-finish pine with slatted shelves for airflow. Holds up to ten pairs of shoes in a neat, two-tier footprint. Narrow design is ideal for entryways or closets. Easy to assemble and move as needed."
+  },
+  {
+    "id": "40",
+    "title": "Vintage Leather Tav Chair",
+    "company": "Heritage",
+    "category": "chair",
+    "price": 11650,
+    "image": "https://images.unsplash.com/photo-1519160558534-579f51061b6a",
+    "colors": ["#be9677", "#302a25"],
+    "description": "Classic barrel shape, upholstered in tan full-grain leather. Brass-capped legs offer a retro accent. Foam-filled seat ensures long-lasting comfort. A timeless addition for study, lounge, or home office."
+  },
+  {
+    "id": "41",
+    "title": "Natural Cane TV Stand",
+    "company": "VerveCraft",
+    "category": "stand",
+    "price": 17999,
+    "image": "https://images.unsplash.com/photo-1482062364825-616fd23b8fc1",
+    "colors": ["#e0c790", "#2c2e2e"],
+    "description": "Features cane-inset cabinet doors with open shelving for devices. Smooth wood frame in a neutral finish pairs well with TVs up to 60in. Concealed cord openings keep things tidy. Ideal for boho or modern spaces."
+  },
+  {
+    "id": "42",
+    "title": "Expandable Dining Bench",
+    "company": "NordicWood",
+    "category": "bench",
+    "price": 8999,
+    "image": "https://images.unsplash.com/photo-1424746219973-8fe3bd07d8e3",
+    "colors": ["#9e8577", "#f4e7d4"],
+    "description": "Versatile bench extends at both ends for extra seating. Rounded edges and smooth finish ensure comfort and safety. Strong hardwood construction resists daily wear. Pairs beautifully with any dining table."
+  },
+  {
+    "id": "43",
+    "title": "Tufted Cream Chaise Lounge",
+    "company": "DreamHaven",
+    "category": "sofa",
+    "price": 18490,
+    "image": "https://images.unsplash.com/photo-1513530171051-16611b009be2",
+    "colors": ["#f6ede7", "#b29f7b"],
+    "description": "Classic tufting and sleek lines blend old Hollywood charm with modern ease. Plush cream upholstery matches any decor style. Long profile for stretching out or reading. Compact enough for bedrooms or studio use."
+  },
+  {
+    "id": "44",
+    "title": "Adjustable Rolling Work Chair",
+    "company": "MetroMotion",
+    "category": "chair",
+    "price": 5699,
+    "image": "https://images.unsplash.com/photo-1449247613801-ab06418e2861",
+    "colors": ["#e7eaf5", "#647073"],
+    "description": "Supportive mesh back and height-adjustable seat keep you comfortable. Smooth rolling casters make moving effortless. Compact size fits home offices or kids' rooms. Designed for productivity and all-day comfort."
+  },
+  {
+    "id": "45",
+    "title": "Night Blue Velvet Ottoman",
+    "company": "CloudCasa",
+    "category": "ottoman",
+    "price": 8900,
+    "image": "https://images.unsplash.com/photo-1465101060329-c68a0c8586f7",
+    "colors": ["#2a304b", "#c6c8d6"],
+    "description": "Midnight blue velvet is both luxe and durable. Tufted top and dark wood legs invoke sophistication. Works as a seat, footrest, or accent table. Perfect accent for lounges, bedrooms, or chic dens."
+  },
+  {
+    "id": "46",
+    "title": "Corner Modular Sofa",
+    "company": "Furnivo",
+    "category": "sofa",
+    "price": 44500,
+    "image": "https://images.unsplash.com/photo-1455656678494-4d1dcd5573d5",
+    "colors": ["#7b8178", "#535353"],
+    "description": "Customizable, space-saving modular design lets you rearrange for any layout. Deep, supportive cushions maximize comfort. Stain-resistant upholstery simplifies cleaning. Works for both open lofts and cozy apartments."
+  },
+  {
+    "id": "47",
+    "title": "Classic Oak Bookcase",
+    "company": "UrbanRoots",
+    "category": "bookshelf",
+    "price": 12300,
+    "image": "https://images.unsplash.com/photo-1464983953574-0892a716854b",
+    "colors": ["#a8763f", "#fff8e1"],
+    "description": "Solid oak frame with adjustable shelves supports even the heaviest tomes. Timeless design fits in home or office. Classic finish is resistant to scratches and stains. Showcase your library in style."
+  },
+  {
+    "id": "48",
+    "title": "Sunburst Wall Mirror",
+    "company": "GlassRoots",
+    "category": "misc",
+    "price": 3600,
+    "image": "/images/Sunburst Wall Mirror.jpg",
+    "colors": ["#f7efdd", "#c2b99b"],
+    "description": "Dazzling sunburst frame in antiqued gold. Adds brightness and a touch of drama to any entryway or living space. Lightweight design is easy to hang. Transforms empty walls instantly."
+  },
+  {
+    "id": "49",
+    "title": "Compact Kitchen Island Cart",
+    "company": "HomeEase",
+    "category": "misc",
+    "price": 13799,
+    "image": "https://images.unsplash.com/photo-1515378791036-0648a3ef77b2",
+    "colors": ["#f7f7f2", "#b89359"],
+    "description": "Sturdy rolling cart with butcher block top. Open shelves and hanging hooks for utensils. Maneuvers easily for prep, serving, or extra storage. Locks in place for stability and safety."
+  },
+  {
+    "id": "50",
+    "title": "Kids' Cloud Bookshelf",
+    "company": "TinyDreams",
+    "category": "bookshelf",
+    "price": 4999,
+    "image": "https://images.unsplash.com/photo-1455656678494-4d1dcd5573d5",
+    "colors": ["#e3e8f0", "#7da7c7"],
+    "description": "Playful cloud silhouette and pastel finish. Easy-to-reach shelves encourage kids to pick and store favorite books. Rounded edges for safety and style. Inspires creativity in playrooms and nurseries."
+  },
+  {
+    "id": "66",
+    "title": "Petite Entryway Bench",
+    "company": "HomeEase",
+    "category": "bench",
+    "price": 7600,
+    "image": "https://images.unsplash.com/photo-1512820790803-83ca734da794",
+    "colors": ["#c7a977", "#f7f6ed"],
+    "description": "Compact bench with a solid birch base and foam-cushioned seat. Easily fits in narrow hallways or mudrooms. Under-seat space for storage baskets. Soft, neutral tones complement any décor."
+  },
+  {
+    "id": "67",
+    "title": "Brass Tripod Floor Lamp",
+    "company": "GlowHome",
+    "category": "lighting",
+    "price": 18450,
+    "image": "https://images.unsplash.com/photo-1501045661006-fcebe0257c3f",
+    "colors": ["#a1835a", "#edeadc"],
+    "description": "Mid-century inspired brass tripod lamp with large linen shade. Offers both ambient and reading light. Sturdy, balanced frame for living or bedrooms. Quick assembly with included instructions."
+  },
+  {
+    "id": "68",
+    "title": "Children's Storage Toy Box",
+    "company": "TinyDreams",
+    "category": "misc",
+    "price": 5299,
+    "image": "https://images.unsplash.com/photo-1432888498266-38ffec3eaf0a",
+    "colors": ["#f0e1c0", "#d1cab7"],
+    "description": "Spacious, easy-to-open lid designed for little hands. Rounded corners for safety and playful cut-out handles. Durable, stain-resistant finish for years of play. Keeps kids’ spaces organized and tidy."
+  },
+  {
+    "id": "69",
+    "title": "Chevron Patterned Area Rug",
+    "company": "Textura",
+    "category": "rug",
+    "price": 7800,
+    "image": "https://images.unsplash.com/photo-1515378791036-0648a3ef77b2",
+    "colors": ["#b1ada9", "#373737"],
+    "description": "Modern chevron rug in muted earth tones. Low-pile, easy-clean weave is perfect for living or dining rooms. Soft underfoot and resists stains. Updates any room with geometric flair."
+  },
+  {
+    "id": "70",
+    "title": "Slatted Wood Outdoor Bench",
+    "company": "VerveCraft",
+    "category": "bench",
+    "price": 9900,
+    "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d",
+    "colors": ["#decba3", "#9c836f"],
+    "description": "Weather-resistant pine with a streamlined, angled silhouette. Perfect for balconies, gardens, or patios. Supports up to three adults. Finished with a protective sealant for outdoor durability."
+  },
+  {
+    "id": "71",
+    "title": "Soft Grey Sectional Sofa",
+    "company": "CloudCasa",
+    "category": "sofa",
+    "price": 41500,
+    "image": "https://images.unsplash.com/photo-1470770841072-f978cf4d019e",
+    "colors": ["#bcbec0", "#353535"],
+    "description": "Modular L-shape sofa with plush cushions for comfort. Spill-resistant grey upholstery is family-friendly. Chrome feet for a pop of sparkle. Perfect for entertaining or everyday lounging."
+  },
+  {
+    "id": "72",
+    "title": "Walnut Media Console",
+    "company": "Heritage",
+    "category": "stand",
+    "price": 17300,
+    "image": "https://images.unsplash.com/photo-1522202176988-66273c2fd55f",
+    "colors": ["#7a6157", "#312e2b"],
+    "description": "Rich walnut veneer with two doors and an open shelf. Adjustable interior for electronics or storage bins. Ventilation holes manage device heat. Suits both classic and modern homes."
+  },
+  {
+    "id": "73",
+    "title": "Velvet Accent Pillow Set",
+    "company": "Textura",
+    "category": "misc",
+
+
+    "price": 1999,
+    "image": "/images/Velvet Accent Pillow.jpg",
+    "colors": ["#f2ece7", "#856145"],
+    "description": "Set of two exotic velvet pillows in rose and taupe. Overstuffed for plush comfort. Removable, washable covers for easy maintenance. Adds a soft, stylish touch to any bed or sofa."
+  },
+  {
+    "id": "74",
+    "title": "Walnut & Glass Coffee Table",
+    "company": "NordicWood",
+    "category": "table",
+    "price": 15950,
+    "image": "https://images.unsplash.com/photo-1465101046530-73398c7f28ca",
+    "colors": ["#7b5e45", "#c6c4c1"],
+    "description": "Sculpted walnut base with a thick, clear glass top. Asymmetrical legs for modern edge. Smooth surfaces are easy to clean. Ideal centerpiece for style-conscious living rooms."
+  },
+  {
+    "id": "75",
+    "title": "Minimalist Birch Ladder Shelf",
+    "company": "UrbanRoots",
+    "category": "bookshelf",
+    "price": 9950,
+    "image": "https://images.unsplash.com/photo-1519125323398-675f0ddb6308",
+    "colors": ["#f3eee6", "#b5a184"],
+    "description": "Leaning design with five open tiers. Blends seamlessly into Scandinavian and minimalist rooms. Lightweight and easy to position against any wall. Displays books, plants, and décor with airy elegance."
+  },
+  {
+    "id": "76",
+    "title": "Upholstered Storage Bench",
+    "company": "CozyCube",
+    "category": "bench",
+    "price": 11800,
+    "image": "https://images.unsplash.com/photo-1455656678494-4d1dcd5573d5",
+    "colors": ["#afbaa6", "#ebe6de"],
+    "description": "Foam-padded bench lifts up to reveal spacious storage. Durable fabric in gentle sage green. Sits perfectly at the foot of the bed or entryway. Holds blankets, shoes, or kids’ toys."
+  },
+  {
+    "id": "77",
+    "title": "Smart Standing Desk Converter",
+    "company": "Workwise",
+    "category": "desk",
+    "price": 8900,
+    "image": "https://images.unsplash.com/photo-1524758631624-e2822e304c36",
+    "colors": ["#e7e7e7", "#bababa"],
+    "description": "Turns any table into a height-adjustable desk in seconds. Gas-lift mechanism for smooth raising and lowering. Generous workspace for laptops or monitors. Portable, lightweight, and easy to store."
+  },
+  {
+    "id": "78",
+    "title": "Solid Teak Outdoor Dining Set",
+    "company": "VerveCraft",
+    "category": "table",
+    "price": 41600,
+    "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d",
+    "colors": ["#dab071", "#72603d"],
+    "description": "Table and four armchairs crafted from weatherproof teak. Rich finish resists sun and rain. Easy to clean and naturally antibacterial. Perfect set for cozy patio dinners and summer brunches."
+  },
+  {
+    "id": "79",
+    "title": "Petite Hall Tree Organizer",
+    "company": "HomeEase",
+    "category": "misc",
+    "price": 8320,
+    "image": "https://images.unsplash.com/photo-1534081333815-ae5019106622",
+    "colors": ["#e0d9c3", "#888786"],
+    "description": "Space-saving entryway solution—bench with hooks and overhead cubby. Sleek, compact profile for apartments. Keeps outerwear, hats, and bags off the floor. Crafted from durable composite wood."
+  },
+  {
+    "id": "80",
+    "title": "Charcoal Wingback Armchair",
+    "company": "CloudCasa",
+    "category": "chair",
+    "price": 17800,
+    "image": "https://images.unsplash.com/photo-1519710164239-da123dc03ef4",
+    "colors": ["#44484a", "#929398"],
+    "description": "Classic high-back silhouette reimagined in deep grey. Button-tufted backrest and piped edge detail. Sturdy oak legs with a walnut finish. A luxurious accent piece for living rooms or bedrooms."
+  },
+  {
+    "id": "81",
+    "title": "Wall-Mounted Vanity Table",
+    "company": "ClearLine",
+    "category": "table",
+    "price": 9400,
+    "image": "https://images.unsplash.com/photo-1465101046530-73398c7f28ca",
+    "colors": ["#dcdcdc", "#fcfcfc"],
+    "description": "Floating style saves precious floor space. Built-in drawer and jewelry organizer. Sleek, minimalist look makes any bedroom feel larger. Easy to install with included wall mounting kit."
+  },
+  {
+    "id": "82",
+    "title": "Narrow Entryway Shoe Cabinet",
+    "company": "HomeEase",
+    "category": "misc",
+    "price": 7400,
+    "image": "https://images.unsplash.com/photo-1512820790803-83ca734da794",
+    "colors": ["#e1e6e4", "#332d28"],
+    "description": "Ultra-slim cabinet for tight hallways or foyers. Tilt-out doors easily store up to twelve pairs. Top shelf holds keys, wallets, or décor. Engineered for maximum utility in compact homes."
+  },
+  {
+    "id": "83",
+    "title": "Retro Cylinder Bedside Lamp",
+    "company": "GlowHome",
+    "category": "lighting",
+    "price": 3990,
+    "image": "/images/Retro Cylinder Bedside Lamp.jpg",
+    "colors": ["#bcaaa4", "#dfdfdf"],
+    "description": "Cylindrical ceramic base with glossy finish. Fabric shade softens light for restful ambiance. Simple rotary switch for easy on/off. Suits bedrooms, guest rooms, or cozy nooks."
+  },
+  {
+    "id": "84",
+    "title": "White Minimalist TV Stand",
+    "company": "ClearLine",
+    "category": "stand",
+    "price": 18750,
+    "image": "https://images.unsplash.com/photo-1515378791036-0648a3ef77b2",
+    "colors": ["#f6fafd", "#353a40"],
+    "description": "Sleek matte-white laminate blends into any modern interior. Open shelf and dual drawers for consoles and storage. Sturdy support for screens up to 55\". Easy to wipe clean and care for."
+  },
+  {
+    "id": "85",
+    "title": "Royal Blue Window Curtains",
+    "company": "Textura",
+    "category": "misc",
+    "price": 5899,
+    "image": "https://images.unsplash.com/photo-1519125323398-675f0ddb6308",
+    "colors": ["#22386b", "#cfd3e1"],
+    "description": "Elegant velvet curtains block excess light and boost style. Heavy weave with soft, fluid drape. Metal-reinforced grommets for easy hanging. Liven up any living room, bedroom, or study."
+  },
+  {
+    "id": "86",
+    "title": "Space-Saving Foldable Bed",
+    "company": "MetroMotion",
+    "category": "bed",
+    "price": 15950,
+    "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d",
+    "colors": ["#e6e2da", "#787675"],
+    "description": "Clever folding frame with foam mattress suited for guest rooms or small apartments. Locking casters for safe, smooth movement. Easy assembly and quick storage. Durable steel and wood construction."
+  },
+  {
+    "id": "87",
+    "title": "Industrial Loft Bar Stools (Set of 2)",
+    "company": "LoftWorx",
+    "category": "chair",
+    "price": 11299,
+    "image": "https://images.unsplash.com/photo-1464983953574-0892a716854b",
+    "colors": ["#474542", "#f0eee5"],
+    "description": "Set of two bar stools in matte steel with wood seats. Minimalist design works with bars, counters, or workspaces. Footrest for added comfort. Stacks for compact storage."
+  },
+  {
+    "id": "88",
+    "title": "Floating Black Wall Shelf",
+    "company": "UrbanRoots",
+    "category": "bookshelf",
+    "price": 3100,
+    "image": "/images/Floating Black Wall Shelf.jpg",
+    "colors": ["#232323", "#ededed"],
+    "description": "Bold floating shelf perfect for photos, plants, or art. Installs easily with hidden mounting hardware. Black wood finish is modern and clean. Supports up to 15kg securely."
+  },
+  {
+    "id": "89",
+    "title": "Kids' Starry Night Table",
+    "company": "TinyDreams",
+    "category": "table",
+    "price": 5700,
+    "image": "https://images.unsplash.com/photo-1470770841072-f978cf4d019e",
+    "colors": ["#475569", "#d4d9df"],
+    "description": "Charming table with whimsical star pattern and rounded legs. Lacquered for durability and easy wiping. Suits bedrooms or playrooms. Pair with colorful chairs for creative fun."
+  },
+  {
+    "id": "90",
+    "title": "Classic Black Console Table",
+    "company": "NordicWood",
+    "category": "table",
+    "price": 13600,
+    "image": "https://images.unsplash.com/photo-1465101162946-4377e57745c3",
+    "colors": ["#121212", "#dedae5"],
+    "description": "Elegant black finish and slim structure for tight spaces. Lower shelf for baskets or decor. Works perfectly in foyers, behind sofas, or hallways. Assembly is fast and hassle-free."
+  }
+]
