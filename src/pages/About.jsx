@@ -1,4 +1,4 @@
-import craftArtisans from "../assets/craftArtisans.jpg";
+import craftArtisans from "../assets/CraftArtisans.jpg";
 
 const timeline = [
   {
